@@ -16,5 +16,5 @@ On s’est donc dit que cette source sera sûrement utile pour y entraîner un m
 
 Après avoir effectué l’analyse exploratoire, le nettoyage et l'imputation des données, cette étude nous a permis de savoir que la source de donnée n’est pas du tout liée à notre niche qui est le marché des diagnostics in vitro. En effet, la grande majorité des actes n’étaient pas des actes d’analyses biologiques ou de diagnostic : c’était par exemple des actes de consultation chez un médecin, des actes chirurgicales, actes de radiologie...
 
-On a donc passé ausx autres sources de données qu'on peut exploiter.
+On a donc passé aux autres sources de données qu'on peut exploiter.
 
